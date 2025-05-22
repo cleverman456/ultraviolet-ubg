@@ -1,0 +1,13 @@
+{
+  "name": "ultraviolet-unblocked-games",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@tomphttp/bare-server-node": "^1.0.0",
+    "@titaniumnetwork-dev/ultraviolet": "^1.0.0",
+    "express": "^4.18.2"
+  }
+}
